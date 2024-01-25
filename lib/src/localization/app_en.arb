@@ -1,0 +1,6 @@
+{
+  "appTitle": "flutter_signin",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
